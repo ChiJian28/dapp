@@ -1,8 +1,7 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# First Version
+* Remix IDE + Ethers.js + React
+* Solidity written in Remix IDE
+* deploy smart contract via Remix IDE
+* Ethers.js interact with deployed smart contract
+* CRUD operation
+* Pay only gas fees for transaction, not yet value(ether)
